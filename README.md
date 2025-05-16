@@ -1,5 +1,8 @@
 # DeepSeek Architecture – Full Educational Series (20 Episodes)
 
+![image](https://github.com/user-attachments/assets/4f740951-831e-44d9-99ea-90363b0870d6)
+
+
 Welcome to the **DeepSeek Architecture Educational Series** — a comprehensive 20-episode journey covering the internal mechanisms of large language models (LLMs), with a special focus on DeepSeek.
 
 This series is designed for:

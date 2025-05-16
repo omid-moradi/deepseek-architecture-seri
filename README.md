@@ -86,9 +86,6 @@ Covers the challenge of expert load balancing and solutions like gating and load
 
 All the codes from scratch, mathematical notes, and Python implementations are available here:
 
-> **[GitHub Repo – DeepSeek Architecture Series](https://github.com/YOUR_USERNAME/DeepSeek-Series)**  
-*(Replace with your actual link)*
-
 ---
 
 ## Contribute / Share
